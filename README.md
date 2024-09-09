@@ -1,13 +1,16 @@
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
-<h1 align="center">Hi 👋, My name is Pablo Peñaloza</h1>
+<p>
+  <h1 align="center">Hi 👋, My name is Pablo Peñaloza</h1>
 <h3 align="center">Software development | Web and Mobile Programming | Databases | Networks and Security </h3>
 
 - 🌍  I'm from Ecuador
 
 - 📫 How to reach me **pablopenaloza66@gmail.com**
   
+</p>
+
 <Br>
 
 ### Skills
